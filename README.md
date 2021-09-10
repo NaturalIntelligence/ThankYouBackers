@@ -1,6 +1,10 @@
 # ThankYouBackers
 I would like to thank you all who donated to NaturalIntelligence opensource organization
 
+<a href="https://opencollective.com/fast-xml-parser/donate" target="_blank">
+  <img src="https://opencollective.com/fast-xml-parser/donate/button@2x.png?color=blue" width=200 />
+</a>
+<a href="https://paypal.me/naturalintelligence"> <img src="static/img/support_paypal.svg" alt="Stubmatic donate button" width="200"/></a>
 
 Projects from NaturalIntelligence opensource organizations which received the donations
 * [Fast XML Parser](https://github.com/NaturalIntelligence/fast-xml-parser)
