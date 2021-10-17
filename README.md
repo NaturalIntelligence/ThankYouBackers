@@ -1,6 +1,9 @@
 # ThankYouBackers
 I would like to thank you all who donated to NaturalIntelligence opensource organization
 
+> You can mention your linkedin/twitter handler while donating or ping me on linked/twitter. So I'll mention the same.
+
+
 <a href="https://opencollective.com/fast-xml-parser/donate" target="_blank">
   <img src="https://opencollective.com/fast-xml-parser/donate/button@2x.png?color=blue" width=200 />
 </a>
