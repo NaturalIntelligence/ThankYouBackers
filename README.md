@@ -19,6 +19,7 @@ Thank you all for your support
 
 Baker/Sponsor | Place | Amount
 | --- | --- | --- |
+| **Yoann Quintaine** | __  | $5.27 |
 | <a href="https://sentry.io/" title="sentry" ><img src="https://avatars.githubusercontent.com/u/1396951" width="80px" ></a> Sentry  | Global  | $100 |
 | **Matthew Aitken** | US  | $5|
 | [BWEBI](http://www.bwebi.co.il) | US  | $10|
