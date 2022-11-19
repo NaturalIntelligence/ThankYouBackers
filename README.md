@@ -17,6 +17,10 @@ Projects from NaturalIntelligence opensource organizations which received the do
 
 Thank you all for your support
 
+Repeated Sponsor
+
+<a href="https://sentry.io/" title="sentry" ><img src="https://avatars.githubusercontent.com/u/1396951" width="80px" ></a> Sentry
+
 Baker/Sponsor | Place | Amount
 | --- | --- | --- |
 | **Yoann Quintaine** | __  | $5.27 |
