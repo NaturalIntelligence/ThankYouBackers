@@ -13,32 +13,35 @@ Projects from NaturalIntelligence opensource organizations which received the do
 * [Fast XML Parser](https://github.com/NaturalIntelligence/fast-xml-parser)
 * [Imglab](https://github.com/NaturalIntelligence/imglab)
 * [Match it](https://github.com/amitguptagwl/matchit)
+* [Cytorus](https://github.com/NaturalIntelligence/cytorus)
 
 
 Thank you all for your support
 
-Repeated Sponsor
+# Sponsor
 
 <a href="https://sentry.io/" title="sentry" ><img src="https://avatars.githubusercontent.com/u/1396951" width="80px" ></a> Sentry
 
-Baker/Sponsor | Place | Amount
-| --- | --- | --- |
-| **Yoann Quintaine** | __  | $5.27 |
-| <a href="https://sentry.io/" title="sentry" ><img src="https://avatars.githubusercontent.com/u/1396951" width="80px" ></a> Sentry  | Global  | $100 |
-| **Matthew Aitken** | US  | $5|
-| [BWEBI](http://www.bwebi.co.il) | US  | $10|
-| **George Hajdu** | US | $5|
-| **Nalinichandra Penke** | US | $10|
-| **Anne Irena Weitzel** | Germany | € 3.00 EUR|
-| **Lindsey Derry** | US | $5|
-| **Imola Kenez** | Belgium | $1|
-| **webアプリケーション**  | Japan | ¥ 1,000 JPY|
-| **Mukund Rajamony** | Canada | $ 2 CAD|
-| **Cassio Sitta** | Brazil | R$ 50.00 BRL|
-| **O'Dane Brissett** | Jamaica | $5|
-| **JOHN CAI** | US | $1|
-| **LEMMA SARL Jerome JACQUES** | France | € 20.00 EUR|
-| **Alexandre Drean** | | $10|
-| **anonymous** | | $10|
-| **anonymous** | | $55|
-| **anonymous** | | $10|
+## Big Supporter
+* <a href="https://sentry.io/" title="sentry" ><img src="https://avatars.githubusercontent.com/u/1396951" width="80px" ></a> Sentry
+* **Thomas Henry Bussey II** from US
+
+## Baker/Supporter/Well wisher
+Name | Place |
+| --- | --- |
+| **Jean-Louis Macle** | France |
+| **Yoann Quintaine** | __  |
+| **Matthew Aitken** | US  |
+| [BWEBI](http://www.bwebi.co.il) | US  |
+| **George Hajdu** | US |
+| **Nalinichandra Penke** | US |
+| **Anne Irena Weitzel** | Germany |
+| **Lindsey Derry** | US |
+| **Imola Kenez** | Belgium |
+| **webアプリケーション**  | Japan |
+| **Mukund Rajamony** | Canada |
+| **Cassio Sitta** | Brazil |
+| **O'Dane Brissett** | Jamaica |
+| **JOHN CAI** | US |
+| **LEMMA SARL Jerome JACQUES** | France |
+| **Alexandre Drean** | |
