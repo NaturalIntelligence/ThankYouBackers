@@ -7,26 +7,29 @@ I would like to thank you all who donated to NaturalIntelligence opensource orga
 <a href="https://opencollective.com/fast-xml-parser/donate" target="_blank">
   <img src="https://opencollective.com/fast-xml-parser/donate/button@2x.png?color=blue" width=200 />
 </a>
-<a href="https://paypal.me/naturalintelligence"> <img src="https://raw.githubusercontent.com/NaturalIntelligence/fast-xml-parser/master/static/img/support_paypal.svg" alt="Stubmatic donate button" width="200"/></a>
-
-Projects from NaturalIntelligence opensource organizations which received the donations
-* [Fast XML Parser](https://github.com/NaturalIntelligence/fast-xml-parser)
-* [Imglab](https://github.com/NaturalIntelligence/imglab)
-* [Match it](https://github.com/amitguptagwl/matchit)
-* [Cytorus](https://github.com/NaturalIntelligence/cytorus)
+<a href="https://paypal.me/naturalintelligence"> 
+  <img src="https://raw.githubusercontent.com/NaturalIntelligence/fast-xml-parser/master/static/img/support_paypal.svg" alt="Stubmatic donate button" width="200"/>
+</a>
+<a href="https://github.com/sponsors/NaturalIntelligence"> 
+  <img src="github_sponsor.png" width="200" />
+</a>
 
 
 Thank you all for your support
 
-# Sponsor
+# Active Sponsor
 
-<a href="https://sentry.io/" title="sentry" ><img src="https://avatars.githubusercontent.com/u/1396951" width="80px" ></a> Sentry
 
-## Big Supporter
+# Past Sponsor
+* Github
 * <a href="https://sentry.io/" title="sentry" ><img src="https://avatars.githubusercontent.com/u/1396951" width="80px" ></a> Sentry
 * **Thomas Henry Bussey II** from US
+* <a href="https://github.com/pleo-io" title="pleo-io" ><img src="https://avatars.githubusercontent.com/u/12394870" width="80px" ></a> pleo-io
 
-## Baker/Supporter/Well wisher
+## Active Supporter
+* <a href="https://sentry.io/" title="sentry" ><img src="https://avatars.githubusercontent.com/u/1396951" width="80px" ></a> Sentry
+
+## Past Baker/Supporter/Well wisher
 Name | Place |
 | --- | --- |
 | **Jean-Louis Macle** | France |
