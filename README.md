@@ -21,13 +21,13 @@ Thank you all for your support
 
 
 # Past Sponsor
-* Github
-* <a href="https://sentry.io/" title="sentry" ><img src="https://avatars.githubusercontent.com/u/1396951" width="80px" ></a> Sentry
-* **Thomas Henry Bussey II** from US
-* <a href="https://github.com/pleo-io" title="pleo-io" ><img src="https://avatars.githubusercontent.com/u/12394870" width="80px" ></a> pleo-io
+Github <br>
+<a href="https://sentry.io/" title="sentry" ><img src="https://avatars.githubusercontent.com/u/1396951" width="80px" ></a><br>
+**Thomas Henry Bussey II** from US<br>
+<a href="https://github.com/pleo-io" title="pleo-io" ><img src="https://avatars.githubusercontent.com/u/12394870" width="80px" ></a><br>
 
 ## Active Supporter
-* <a href="https://sentry.io/" title="sentry" ><img src="https://avatars.githubusercontent.com/u/1396951" width="80px" ></a> Sentry
+<a href="https://sentry.io/" title="sentry" ><img src="https://avatars.githubusercontent.com/u/1396951" width="80px" ></a>
 
 ## Past Baker/Supporter/Well wisher
 Name | Place |
