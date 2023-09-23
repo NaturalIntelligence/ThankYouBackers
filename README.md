@@ -32,7 +32,10 @@ Github <br>
 ## Past Baker/Supporter/Well wisher
 Name | Place |
 | --- | --- |
-| **Jean-Louis Macle** | France |
+
+| **Kerim Güney** | __ |
+| **Christopher Thomas** | US |
+| **Jean-Louis Macle** (Cytorus) | France |
 | **Yoann Quintaine** | __  |
 | **Matthew Aitken** | US  |
 | [BWEBI](http://www.bwebi.co.il) | US  |
