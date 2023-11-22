@@ -17,8 +17,8 @@ I would like to thank you all who donated to NaturalIntelligence opensource orga
 
 Thank you all for your support
 
-# Active Sponsor
-
+# Recent Sponsor
+<a href="https://github.com/skunkteam" title="Skunk Team" ><img src="https://avatars.githubusercontent.com/u/46373671?s=80" width="80px" ></a><br>
 
 # Past Sponsor
 Github <br>
@@ -32,7 +32,6 @@ Github <br>
 ## Past Baker/Supporter/Well wisher
 Name | Place |
 | --- | --- |
-
 | **Kerim Güney** | __ |
 | **Christopher Thomas** | US |
 | **Jean-Louis Macle** (Cytorus) | France |
