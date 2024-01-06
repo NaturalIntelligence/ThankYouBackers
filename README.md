@@ -21,12 +21,12 @@ Thank you all for your support
 <a href="https://github.com/skunkteam" title="Skunk Team" ><img src="https://avatars.githubusercontent.com/u/46373671?s=80" width="80px" ></a><br>
 
 # Past Sponsor
-Github <br>
-<a href="https://sentry.io/" title="sentry" ><img src="https://avatars.githubusercontent.com/u/1396951" width="80px" ></a><br>
-**Thomas Henry Bussey II** from US<br>
-<a href="https://github.com/pleo-io" title="pleo-io" ><img src="https://avatars.githubusercontent.com/u/12394870" width="80px" ></a><br>
+- **Github** <br>
+- sentry <a href="https://sentry.io/" title="sentry" ><img src="https://avatars.githubusercontent.com/u/1396951" width="80px" ></a><br>
+- **Thomas Henry Bussey II** from US<br>
+- pleo-io <a href="https://github.com/pleo-io" title="pleo-io" ><img src="https://avatars.githubusercontent.com/u/12394870" width="80px" ></a><br>
 
-## Active Supporter
+## Current Supporter
 <a href="https://sentry.io/" title="sentry" ><img src="https://avatars.githubusercontent.com/u/1396951" width="80px" ></a>
 
 ## Past Baker/Supporter/Well wisher
