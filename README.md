@@ -17,17 +17,8 @@ I would like to thank you all who donated to NaturalIntelligence opensource orga
 
 Thank you all for your support
 
-# Recent Sponsor
-<a href="https://github.com/skunkteam" title="Skunk Team" ><img src="https://avatars.githubusercontent.com/u/46373671?s=80" width="80px" ></a><br>
+![Sponsors and Supporters](./assets/NI_sponsors.jpg)
 
-# Past Sponsor
-- **Github** <br>
-- sentry <a href="https://sentry.io/" title="sentry" ><img src="https://avatars.githubusercontent.com/u/1396951" width="80px" ></a><br>
-- **Thomas Henry Bussey II** from US<br>
-- pleo-io <a href="https://github.com/pleo-io" title="pleo-io" ><img src="https://avatars.githubusercontent.com/u/12394870" width="80px" ></a><br>
-
-## Current Supporter
-<a href="https://sentry.io/" title="sentry" ><img src="https://avatars.githubusercontent.com/u/1396951" width="80px" ></a>
 
 ## Past Baker/Supporter/Well wisher
 Name | Place |
