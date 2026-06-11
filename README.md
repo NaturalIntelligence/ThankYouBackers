@@ -17,27 +17,8 @@ I would like to thank you all who donated to NaturalIntelligence opensource orga
 
 Thank you all for your support
 
-![Sponsors and Supporters](./assets/NI_sponsors.jpg)
 
-
-## Past Baker/Supporter/Well wisher
-Name | Place |
-| --- | --- |
-| **Kerim Güney** | __ |
-| **Christopher Thomas** | US |
-| **Jean-Louis Macle** (Cytorus) | France |
-| **Yoann Quintaine** | __  |
-| **Matthew Aitken** | US  |
-| [BWEBI](http://www.bwebi.co.il) | US  |
-| **George Hajdu** | US |
-| **Nalinichandra Penke** | US |
-| **Anne Irena Weitzel** | Germany |
-| **Lindsey Derry** | US |
-| **Imola Kenez** | Belgium |
-| **webアプリケーション**  | Japan |
-| **Mukund Rajamony** | Canada |
-| **Cassio Sitta** | Brazil |
-| **O'Dane Brissett** | Jamaica |
-| **JOHN CAI** | US |
-| **LEMMA SARL Jerome JACQUES** | France |
-| **Alexandre Drean** | |
+## Past Baker/Supporter/Well wisher (in last 6 months)
+Name |
+| --- |
+|![](https://avatars.githubusercontent.com/u/15659472?s=20&v=4) ![amplify-education](https://github.com/amplify-education)|
